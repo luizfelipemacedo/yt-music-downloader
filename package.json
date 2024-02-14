@@ -1,0 +1,8 @@
+{
+  "name": "yt-music-downloader",
+  "type": "module",
+  "dependencies": {
+    "express": "4.18.2",
+    "ytdl-core": "4.11.5"
+  }
+}
